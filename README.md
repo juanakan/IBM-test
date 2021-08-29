@@ -9,4 +9,4 @@ Para el fichero plano use la siguiente ruta: C:\Users\juanc\Desktop\archivo.
 Debemos cambiar juanc por el usuario que va a ejecutar el programa.
 
 ## Conexión MySQL
-Para la conexión he usado un conector JDBC, que encontraremos en el siguiente enlace: [Conector JDBC](https://www.mysql.com/products/connector/).   
+Para la conexión he usado un conector JDBC, que encontraremos en el siguiente enlace: [Conector JDBC](https://dev.mysql.com/downloads/connector/j/).   
